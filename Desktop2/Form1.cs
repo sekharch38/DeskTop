@@ -25,11 +25,8 @@ namespace Desktop2
 
             MessageBox.Show("Firth");
             MessageBox.Show("Sixth");
-<<<<<<< HEAD
-            MessageBox.Show("Eight");
-=======
             MessageBox.Show("Seven");
->>>>>>> abbe2e58464bf713142b9c4642b621b2316edf7f
+            MessageBox.Show("Eight");
         }
     }
 }

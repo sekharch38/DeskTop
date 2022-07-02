@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DESKTOP
+namespace Desktop2
 {
     public partial class Form1 : Form
     {
@@ -19,8 +19,7 @@ namespace DESKTOP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This First Win App.");
-             MessageBox.Show("This First Win App2.");
+            MessageBox.Show("Second");
         }
     }
 }
